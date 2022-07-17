@@ -1,0 +1,120 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background : #f5f7fa;
+    padding: 20 px;
+    font-family: Montserrat;
+}
+.wrapper {
+    background: #ffffff;
+    display: flex;
+}
+.sidebar {
+    background: #1e2939;
+    width: 370px;
+    padding-top: 40px;
+    padding=bottom: 40px;
+}
+.myphoto {
+    width: 370px;
+}
+.aboutme {
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+.contacts-container {
+    margin-top: 60px;
+    margin-left: 40px;
+    margine-right: 40px;
+}
+.contacts-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+}
+.contacts-link {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #434c5a;
+}
+.contacts-link-type {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    margin-right: 10px;
+}
+.techskills-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 20px;
+    color: #ffffff;
+}
+.tech-skills {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 55px;
+}
+.item {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #ffffff;
+    margin-left: 15px;
+}
+.soft-skills {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 55px;
+    color: #ffffff;
+}
+.profession {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 23px;
+}
+.name {
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 89px;
+    }
+.description {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 24px;
+    }
+.info-container {
+    margin-bottom: 65px;
+}
+.projects-title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 10px;
+}
+.projects-link {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #595959;
+}
+.color {
+    color: #ff7011;
+}
+.profession-time {
+    color: #a8a8a8;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 14px;
+}
